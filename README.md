@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sujeeth.s
 - 👀 I’m interested to develope new web and apps
 - 💞️ I’m looking to collaborate on programing legends
-- 👨‍💻 EveryThing Has Limit expect Knowledge
+- 👨‍💻 EveryThing Has Limit except Knowledge
 
 
 <!---

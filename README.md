@@ -9,9 +9,9 @@
 
 
 
-- 🌱 I’m currently learning **GrapgQl**
+- 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **Javascript, React, NextJs, Express**
+- 💬 Ask me about **Javascript, React, NextJs, Express Js**
 
 - ⚡ Fun fact **I think I'm a Developer**
 

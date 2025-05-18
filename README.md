@@ -20,7 +20,7 @@
   </a>
   &nbsp;
   <!-- Vercel Portfolio (Text Button Style) -->
-  <a href="https://vercel.com/sujeethcodes-projects/portfolio" target="_blank" style="text-decoration: none; font-weight: bold; font-family: sans-serif;">
+  <a href="https://portfolio-sujeethcodes-projects.vercel.app/" target="_blank" style="text-decoration: none; font-weight: bold; font-family: sans-serif;">
     🌐 My Portfolio
   </a>
 </p>
